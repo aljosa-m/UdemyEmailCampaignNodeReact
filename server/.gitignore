@@ -25,3 +25,5 @@ benchmarks/graphs
 
 # .ENV
 .env
+
+keys.js
